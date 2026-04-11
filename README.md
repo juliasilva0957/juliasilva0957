@@ -30,21 +30,9 @@
 <br>
       
 <div align="center">
-    <div style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    background: #0d1117;
-    padding: 20px;
-    border-radius: 15px;
-    box-shadow: 0 0 20px rgba(248, 65, 139, 0.2);
-    border: 1px solid rgba(248, 65, 139, 0.3);
-  ">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=juliasilva0957&rank_icon=github&show_icons=true&theme=radical&count_private=true">
-  <img height="150" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=juliasilva0957&layout=compact&theme=radical&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliasilva0957&theme=radical&count_private=true"/>
+  <img height="160" widht= "40" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=juliasilva0957&rank_icon=github&show_icons=true&theme=rose_pine&count_private=true">
+  <img height="160" widht ="40"src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=juliasilva0957&layout=compact&theme=rose_pine&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliasilva0957&theme=rose_pine&count_private=true"/>
 </div>
 </div>
 
