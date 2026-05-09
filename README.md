@@ -7,8 +7,6 @@
 </div>
 
 <div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
       Hi there! I'm <b>Julia Silva</b>
@@ -23,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/julia_%E2%99%A1-pink" />
+  <img src="https://img.shields.io/badge/julia_%E2%99%A1-orange" />
 </div>
       
 <br>
@@ -88,9 +86,9 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=juliasilva0957&style=flat-square&color=8f2c5b" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=juliasilva0957&style=flat-square&color=FF7E01" /></p> 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:ff4375,50:ff7e01,100:ffb400&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:ff4375,50:FF7E01,100:ffb400&section=footer"/>
