@@ -1,9 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:ffb400,50:ff7e01,100:ff4375&section=header"/>
 
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://i.redd.it/h0o7lg5yg3y51.gif" />
+  <img align="center" height="150" src="https://i.pinimg.com/originals/b4/cb/e6/b4cbe6e1f989d24ff94f28a476853925.gif" />
 </div>
 
 <div align="center">
@@ -15,24 +14,17 @@
 
 <div align="center" width="100%">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C9A3E6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/julia_%E2%99%A1-orange" />
+  <img src="https://img.shields.io/badge/julia_%E2%99%A1-white" />
 </div>
       
 <br>
 <br>
-      
-<div align="center">
-  <img height="160" widht= "40" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=juliasilva0957&rank_icon=github&show_icons=true&theme=rose_pine&count_private=true">
-  <img height="160" widht ="40"src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=juliasilva0957&layout=compact&theme=rose_pine&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliasilva0957&theme=rose_pine&count_private=true"/>
-</div>
-</div>
 
 
 <div align="center" style="display: inline_block"><br>
@@ -86,9 +78,6 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=juliasilva0957&style=flat-square&color=FF7E01" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=juliasilva0957&style=flat-square&color=C9A3E6" /></p> 
 </div>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:ff4375,50:FF7E01,100:ffb400&section=footer"/>
