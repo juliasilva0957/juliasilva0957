@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://i.pinimg.com/originals/b4/cb/e6/b4cbe6e1f989d24ff94f28a476853925.gif" />
+  <img align="center" height="150" src="https://media.tenor.com/-8f-EW8LUiQAAAAj/rarity-mlp.gif" />
 </div>
 
 <div align="center">
